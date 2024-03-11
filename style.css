@@ -1,0 +1,29 @@
+img{
+    border-radius:10px;
+}
+p{
+    font-size: large;
+    font-family: sans-serif;}
+hr{
+    border: 1px solid rgb(214, 210, 210);
+}
+
+.blue-color {
+    color:#6674CC;
+    font-family:sans-serif;
+}
+
+.grey-color{
+    color: grey;
+}
+
+.bg-green{
+    background-color: #1DD1A1;
+    font-family: sans-serif;
+    font-size:small;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 5px;
+    
+}
